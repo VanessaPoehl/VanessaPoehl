@@ -12,10 +12,19 @@ Ich studiere aktuell Informatik (Bachelor) an der Universität Bonn. In meiner F
 
 ---
 
-### Aktuelle Projekte
-* **[Number Guessing Game](https://github.com/VanessaPoehl/fcc-number-guessing-game)** - Ein interaktives Bash-Skript, das Benutzereingaben verarbeitet und Spieldaten in einer PostgreSQL-Datenbank speichert.
-* **[Periodic Table Database](https://github.com/VanessaPoehl/fcc-periodic-table-database)** - Eine relationale Datenbank zur Verwaltung chemischer Elemente inklusive eines Bash-Skripts zur Abfrage der Daten.
+### Top-Projekte (Fokus: QA & Data)
 
+* **[Bike Rental Shop Management](https://github.com/VanessaPoehl/fcc-bike-rental-shop)** 
+  Ein interaktives Bash-Skript zur Verwaltung eines Fahrradverleihs. Kommuniziert mit einer PostgreSQL-Datenbank (CRUD) und nutzt strikte Input-Validierung, um Fehleingaben abzufangen.
+  *`Tech: Bash, PostgreSQL, Input Validation, Regex`*
+
+* **[Student Database Analytics](https://github.com/VanessaPoehl/fcc-student-database)** 
+  Ein Datenanalyse-Tool, das komplexe Abfragen auf einer relationalen Universitätsdatenbank ausführt. Beweist tiefgehende SQL-Kenntnisse durch den Einsatz von Multi-Table JOINs, Aggregatfunktionen und Gruppierungen zur gezielten Datenauswertung.
+  *`Tech: Advanced SQL, PostgreSQL, Data Analysis`*
+
+* **[World Cup Data Migration](https://github.com/VanessaPoehl/fcc-worldcup-database)** 
+  Ein automatisiertes Skript, das rohe WM-Spieldaten aus einer `.csv`-Datei einliest, bereinigt und in eine normalisierte relationale Datenbank migriert. Zeigt den sicheren Umgang mit Datentransformationen.
+  *`Tech: Data Migration, Bash, SQL, CSV-Processing`*
 ---
 
 ### Zertifikate
