@@ -14,6 +14,10 @@ Ich studiere aktuell Informatik (Bachelor) an der Universität Bonn. In meiner F
 
 ### Top-Projekte (Fokus: QA & Data)
 
+* **[API Test Automation Suite](https://github.com/VanessaPoehl/api-test-automation-postman-newman)** 
+  Eine automatisierte REST-API-Testsuite für CRUD-Operationen, Edge Cases und JSON-Schema-Validierungen. Generiert interaktive HTML-Ausführungsberichte und läuft vollautomatisch über eine CI/CD-Pipeline mit GitHub Actions und Newman.  
+  *`Tech: Postman, Newman, HTML-Reporting, CI/CD, GitHub Actions, JavaScript/Chai, JSON Schema`*  
+
 * **[Bike Rental Shop Management](https://github.com/VanessaPoehl/fcc-bike-rental-shop)** 
   Ein interaktives Bash-Skript zur Verwaltung eines Fahrradverleihs. Kommuniziert mit einer PostgreSQL-Datenbank (CRUD) und nutzt strikte Input-Validierung, um Fehleingaben abzufangen.
   *`Tech: Bash, PostgreSQL, Input Validation, Regex`*
