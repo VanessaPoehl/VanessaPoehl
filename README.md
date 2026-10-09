@@ -40,11 +40,11 @@ Ich studiere aktuell Informatik (Bachelor) an der Universität Bonn. In meiner F
 
 ### Zertifikate
 [![freeCodeCamp - Relational Database](https://img.shields.io/badge/freeCodeCamp-Relational_Database-0a0a23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/german/certification/fcc-369a888d-300c-405f-be22-ca22241d669c/relational-databases-v9)
-[![Cisco NetAcad - Linux Command Line](https://img.shields.io/badge/Cisco_NetAcad-Linux_Command_Line-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com/recognitions/verify/46ac29fa-8eb4-4d74-a903-90b3d395c1b7)
+[![Cisco NetAcad - Linux Essentials](https://img.shields.io/badge/Cisco_NetAcad-Linux_Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com/recognitions/verify/46ac29fa-8eb4-4d74-a903-90b3d395c1b7)
 
 ---
 
-<!--
+
 ### 📫 Kontakt
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](HIER_DEINEN_LINKEDIN_LINK_EINFÜGEN)
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanessa-poehl)
+
